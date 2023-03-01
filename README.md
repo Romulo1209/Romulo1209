@@ -1,6 +1,5 @@
 ### Olá Devs, me chamo Romulo👋
 
-- 🔭 Atualmente trabalho como desenvolvedor de jogos na empresa Playfox Games em Recife-PE.
 - 🌱 Atualmente sou um estudante do curso de Jogos Digitais pela UniFCV onde procuro conseguir ainda mais conhecimento.
 - 👯 Procuro criar codigos e projetos utilizando a engine Unity3D e os disponibiliza-los aqui para pessoas que precisam de ideias utilizarem sem problemas.
 - 🤔 E assim como disponibilizo códigos eu também procuro evoluir o meu conhecimento com os códigos dessa comunidade incrível que é o GitHub.
